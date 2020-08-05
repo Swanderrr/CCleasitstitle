@@ -1,0 +1,10 @@
+{
+    "id": "lea-sits",
+    "version": "1.0.0",
+    "title": {
+        "en_US": "Lea sits on the Title"
+    },
+	"description": {
+        "en_US": "Replaces default Lea's pose on the title screen."
+    }
+}

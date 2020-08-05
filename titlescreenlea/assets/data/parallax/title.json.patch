@@ -1,6 +1,15 @@
-[
- { "type": "ENTER", "index": "entries" },
- { "type": "ENTER", "index": "5" },
- { "type": "SET_KEY", "index": "pos", "content": { "y": -6 } },
- { "type": "EXIT" }
+[{
+        "type": "ENTER",
+        "index": ["entries", 5]
+    },
+    {
+        "type": "SET_KEY",
+        "index": "pos",
+        "content": {
+            "y": -6
+        }
+    },
+    {
+        "type": "EXIT"
+    }
 ]
